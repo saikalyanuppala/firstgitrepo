@@ -7,3 +7,4 @@ I love you
 
 please chant these 4 sentences daily, in dev branch i added this.
 pushing file remote repo
+Edited file in github remote directly
